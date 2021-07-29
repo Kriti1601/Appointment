@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+    box-sizing: border-box;
+ }
+ header{
+       background-image: url('../csprojecttanya/table_bg.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+       height: 100vh;
+ }
+
+.main{
+   width:700px;
+        position: absolute;
+        top:15%;
+        left: 60%;
+        transform: translate(-50%);
+        font-size: 500%
+
+}

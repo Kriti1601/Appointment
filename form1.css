@@ -1,0 +1,109 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+ header{
+       background-image: url('../csprojecttanya/table_bg.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position:center;
+       font-family:sans-serif;
+       margin-top:40px;
+       height:125vh;
+    }
+
+ .regform{
+           width:800px;
+           margin:right;
+           color:blue;
+           font-size:60%;
+           text-align:center;
+           border-radius:15px 15px 0px 0px;
+          }
+
+.main{
+       width:100%;
+       margin: right;
+       text-align:left;
+       font-family: 'Baloo Bhai 2', cursive;
+       padding-right: 2px;
+      }
+  
+form{
+     padding:10px;
+      }
+
+#name{
+     width:200px;
+     height:100px;
+     }
+
+.name{
+    margin-left:20px;
+    width:300px;
+    color:blue;
+    line-height:25px;
+    font-size:25px;
+    font-weight:60;
+    }
+
+#Gender{
+        width:200px;
+        height:100px;
+        margin-left:15px;
+        font-size:10px;
+      }
+
+.radio{
+        display:inline-block;
+        padding-right:70px;
+        font-size:15px;
+        margin-left:25px;
+        margin-top:5px;   
+        color:black;
+      }
+
+ .radio input{
+        width:20px;
+        height:20px;
+        border-radius:50%;
+        cursor:pointer;
+        outline:none;
+      }
+
+.address{
+        margin-left:20px;
+        width:300px;
+        color:blue;
+        line-height:25px;
+        font-size:25px;
+        font-weight:100;
+      }
+
+.email{
+       margin-left:20px;
+       width:300px;
+       color:blue;
+       line-height:25px;
+       font-size:25px;
+       font-weight:100;  
+    }
+
+.blood group{
+       margin-left:20px;
+       width:500px;
+       color:blue;
+       line-height:25px;
+       font-size:25px;
+       font-weight:100;
+  }
+
+
+    button:hover {
+
+      background-color: #fb8500;
+    
+}
+ 

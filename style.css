@@ -1,0 +1,89 @@
+*{
+       margin: 0px;
+       padding: 0px;
+       box-sizing: border-box;
+     
+      }
+      header{
+            background-image: url('E:/csprojecttanya/home_bg.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 100vh;
+            margin-left: 0%;
+            margin-right: 0%;
+            margin-top: 3%;
+            
+     
+      }
+     
+      clearfix:after{
+             content: ".";
+             visibility: hidden;
+             display: block;
+             height: 0px;
+             clear: both;
+       }
+     
+      .row{
+        max-width: 1100px;
+        margin: 0 auto;
+      }
+      
+     .main-nav{
+            float: right;
+            margin-top: 40px;
+         }
+     
+     .main-nav li{
+                display: inline-block;
+                list-style: none;
+                margin-left: 50px;
+        }
+     
+   .main-nav li {
+             color:red;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 120%;
+            font-weight: 150%;
+        }
+
+    .main-nav li {
+                color:red;
+               text-decoration: none;
+               text-transform: uppercase;
+               font-size: 120%;
+               font-weight: 150%;
+           }
+
+    
+    .main-nav li {
+            color:red;
+           text-decoration: none;
+           text-transform: uppercase;
+           font-size: 120%;
+           font-weight: 150%;
+       }
+
+    
+       .main-nav li {
+        color:red;
+       text-decoration: none;
+       text-transform: uppercase;
+       font-size: 120%;
+       font-weight: 150%;
+   }
+   
+
+     
+     .main-content-header{
+             width:1180px;
+             position: absolute;
+             top: 50%;
+             left: 50%;
+             transform: translate(-50%);
+             font-size: 150%
+     }
+     
+     
